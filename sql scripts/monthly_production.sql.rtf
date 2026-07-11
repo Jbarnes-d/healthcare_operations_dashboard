@@ -1,3 +1,12 @@
+/*
+Purpose:
+Retrieve monthly production totals for dashboard reporting.
+
+Privacy Note:
+This is a sanitized portfolio version of the original query.
+Practice-specific identifiers and confidential fields have been removed.
+*/
+
 SELECT\
     DATE_FORMAT(ProcDate, '%Y-%m') AS Month,\
     SUM(ProcFee) AS Production\
