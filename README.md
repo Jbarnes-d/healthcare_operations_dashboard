@@ -1,5 +1,12 @@
 # Dental Practice Performance Dashboard
 
+![SQL](https://img.shields.io/badge/SQL-Database%20Queries-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Open Dental](https://img.shields.io/badge/Open%20Dental-Practice%20Data-0099CC?style=for-the-badge)
+![Healthcare Analytics](https://img.shields.io/badge/Healthcare-Analytics-0A66C2?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-6F42C1?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-20B2AA?style=for-the-badge)
+
 An interactive Power BI dashboard developed using de-identified operational data from a general dental practice. The project uses custom SQL queries to extract data from Open Dental and Power BI to transform, analyze, and visualize key practice performance metrics.
 
 The dashboard was designed to help practice leadership monitor production, patient growth, appointment outcomes, outstanding treatment, and procedure-level performance.
