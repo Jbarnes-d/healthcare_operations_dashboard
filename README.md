@@ -178,6 +178,17 @@ The report was organized into two pages:
 Visuals were selected based on the business question being answered.
 
 ---
+## 6. Future Enhancements
+
+Potential future improvements include:
+
+- Provider-level performance analysis
+- Treatment acceptance metrics
+- Collection reporting
+- Patient retention analysis
+- Interactive drill-through reports
+
+---
 
 ## Tools and Technologies
 
@@ -233,7 +244,11 @@ Visuals were selected based on the business question being answered.
 - GitHub project organization
 
 ---
+##Disclaimer
 
+This project is an independent portfolio project and is not affiliated with or endorsed by Open Dental Software.
+
+All data shown in the dashboard have been de-identified. The original datasets and confidential practice information are not publicly available.
 ## Repository Structure
 
 ```text
@@ -257,3 +272,10 @@ dental-practice-performance-dashboard/
 │
 └── docs/
     └── data_dictionary.md
+```
+## Disclaimer
+
+This project is an independent portfolio project developed using de-identified operational data.
+
+The repository contains sanitized SQL scripts and dashboard screenshots only. Raw data and confidential business information are not included.
+
